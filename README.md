@@ -5,6 +5,8 @@
 recherche ? 
 <br> alors pour afficher une liste de pokémon : on fait un fetch avec l'api puis on demande avec un "INNERhtml" de pour chaque pokémon montrer leur nom , et un formulaire de recherche : on fait une page html avec une barre de recherche comme avec mon code en "onclick" avec un boutton qui renvoit a une fonction "rechercherparid" on la valeur de la barre de recherche puis on va dans l'api et on demande id de tout les pokémon puis quand on a marcher l'id du pokémon dans la barre de recherche on la fonction afficherunpokemon qui la fonction pour montrer les détails du pokémon. Il ne faut pas oublier de faire un catch si par exemple id est trop haut par rapport a la limite ou que le sprite marche pas  </br>
 
+https://lereddd.github.io/pok-dex-/pokedexDJ
+
 <br>jVoici mon programme html et css </br> 
  ```html 
  <!DOCTYPE html>
